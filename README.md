@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Data Science** major (Bachelor of Computer Science) at **Swinburne University**, Melbourne 🇦🇺
+- 🎓 **Data Science** major (Bachelor of Computer Science) at Swinburne University, Melbourne, Australia
 - ☁️ Studying for my **AWS Certified Cloud Practitioner** → next stop, **Solutions Architect Associate**
 - 🔭 Building toward **cloud data infrastructure** — where my background in **computer networks & network administration** meets **data pipelines**
 - 🧠 Learning the **data engineering** path: SQL → cloud data platforms → ML workflows
@@ -48,7 +48,7 @@
 
 ### 🚀 What I'm Building
 
-> These are in progress — links go live as they ship.
+> These are in progress links go live as they ship.
 
 - 🛡️ **Network Traffic Anomaly Detection** an end-to-end ML pipeline that flags malicious/anomalous network flows (Python · scikit-learn · domain-informed feature engineering)
 - 📊 **Melbourne Data Insights** a full-stack data product with a Vue 3 dashboard, a FastAPI backend, and a MySQL database (complete data → analysis → visualisation lifecycle)
