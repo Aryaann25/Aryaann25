@@ -1,15 +1,16 @@
-<!-- ===== HEADER BANNER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Aryan%20Thakor&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Science%20%7C%20Aspiring%20Data%20Engineer%20%7C%20Cloud%20%2B%20Networks&descSize=18&descAlignY=56&descColor=a8a8ff" alt="header banner" />
+
+<!-- ===== ANIMATED TYPING HEADER ===== -->
+<a href="https://github.com/Aryaann25">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Aryan+Thakor;Data+Science+Student+at+Swinburne;Aspiring+Data+Engineer;Where+Data+Meets+the+Network+Layer" alt="Typing header" />
+</a>
+
+<!-- ===== PROFILE VIEWS ===== -->
+<img src="https://komarev.com/ghpvc/?username=Aryaann25&label=Profile%20views&color=58A6FF&style=flat" alt="Profile views" />
+
 </div>
-<!-- ===== TYPING ANIMATION + PROFILE VIEWS ===== -->
-<div align="center">
-  <a href="https://github.com/Aryaann25">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Science+Student+at+Swinburne;Aspiring+Data+Engineer;Where+Data+Meets+the+Network+Layer" alt="typing" />
-  </a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Aryaann25&label=Profile%20views&color=58A6FF&style=for-the-badge" alt="profile views" />
-</div>
+
+---
 
 ### 👨‍💻 About Me
 
@@ -101,12 +102,16 @@
 
 </div>
 
----
-
+<!-- ===== ON-BRAND QUOTE ===== -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
+  <h3><i>"Without data, you're just another person with an opinion."</i></h3>
+  <sub>— W. Edwards Deming</sub>
 </div>
-
+<!-- ===== COOL CLOSER ===== -->
+<div align="center">
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Thanks+for+visiting!+%E2%AD%90;Let's+build+something+great+together+%F0%9F%9A%80" alt="thanks for visiting" />
+</div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" alt="footer banner" />
 </div>
