@@ -72,16 +72,17 @@ Cloud & Tools
 
 ### 🚀 What I'm Building
 
-> These are in progress — links go live as they ship.
+> These are in progress links go live as they ship.
 
-- 🛡️ **Network Traffic Anomaly Detection** — an end-to-end ML pipeline that flags malicious/anomalous network flows (Python · scikit-learn · domain-informed feature engineering)
-- 📊 **Melbourne Data Insights** — a full-stack data product with a Vue 3 dashboard, a FastAPI backend, and a MySQL database (complete data → analysis → visualisation lifecycle)
-- 🧩 **DSA & SQL Practice** — pattern-organised solutions documenting my problem-solving progression
+- 🛡️ **Network Traffic Anomaly Detection** - an end-to-end ML pipeline that flags malicious/anomalous network flows (Python · scikit-learn · domain-informed feature engineering)
+- 📊 **Melbourne Data Insights** - a full-stack data product with a Vue 3 dashboard, a FastAPI backend, and a MySQL database (complete data → analysis → visualisation lifecycle)
+- 🧩 **DSA & SQL Practice** - pattern-organised solutions documenting my problem-solving progression
 
 ---
 
 📈 GitHub Analytics
 
+<div align="center">
 <img src="https://streak-stats.demolab.com?user=Aryaann25&theme=tokyonight&hide_border=true" alt="streak" />
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryaann25&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9a4ff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" />
