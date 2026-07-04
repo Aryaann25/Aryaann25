@@ -1,31 +1,26 @@
-<!-- ===== HEADER BANNER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Aryan%20Thakor&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Science%20%7C%20Aspiring%20Data%20Engineer%20%7C%20Cloud%20%2B%20Networks&descSize=18&descAlignY=56&descColor=a8a8ff" alt="header banner" />
-</div>
 
-<!-- ===== TYPING ANIMATION + PROFILE VIEWS ===== -->
-<div align="center">
-  <a href="https://github.com/Aryaann25">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Science+Student+at+Swinburne;Aspiring+Data+Engineer;Where+Data+Meets+the+Network+Layer" alt="typing" />
-  </a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Aryaann25&label=Profile%20views&color=58A6FF&style=for-the-badge" alt="profile views" />
+<!-- ===== ANIMATED TYPING HEADER ===== -->
+<a href="https://github.com/Aryaann25">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Aryan+Thakor;Data+Science+Student+at+Swinburne;Aspiring+Data+Engineer;Where+Data+Meets+the+Network+Layer" alt="Typing header" />
+</a>
+
+<!-- ===== PROFILE VIEWS ===== -->
+<img src="https://komarev.com/ghpvc/?username=Aryaann25&label=Profile%20views&color=58A6FF&style=flat" alt="Profile views" />
+
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-```yaml
-name: Aryan Thakor
-location: Melbourne, Australia 🇦🇺
-education: BSc Computer Science (Data Science) @ Swinburne
-currently: AWS Cloud Practitioner → Solutions Architect Associate
-focus: Cloud data infrastructure — where networks meet data pipelines
-learning: Data engineering (SQL → cloud platforms → ML)
-languages: [English, Hindi, Gujarati]
-fun_fact: "I can debug a network AND a data pipeline — most people pick one"
-```
+- 🎓 **Data Science** major (Bachelor of Computer Science) at **Swinburne University**, Melbourne Australia
+- ☁️ Studying for my **AWS Certified Cloud Practitioner** → next stop, **Solutions Architect Associate**
+- 🔭 Building toward **cloud data infrastructure** where my background in **computer networks & network administration** meets **data pipelines**
+- 🧠 Learning the **data engineering** path: SQL → cloud data platforms → ML workflows
+- 💬 Ask me about **Python, SQL, Vue.js, or anything networking**
+- 🗣️ I speak **English, Hindi & Gujarati**
+- ⚡ Fun fact: I can debug a **network** *and* a **data pipeline** — most people pick one
 
 ---
 
