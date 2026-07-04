@@ -12,18 +12,16 @@
 
 </div>
 
-👨‍💻 About Me
+### 👨‍💻 About Me
 
+- 🎓 **Data Science** major (Bachelor of Computer Science) at **Swinburne University**, Melbourne Australia
+- ☁️ Studying for my **AWS Certified Cloud Practitioner** → next stop, **Solutions Architect Associate**
+- 🔭 Building toward **cloud data infrastructure** — where my background in **computer networks & network administration** meets **data pipelines**
+- 🧠 Learning the **data engineering** path: SQL → cloud data platforms → ML workflows
+- 💬 Ask me about **Python, SQL, Vue.js, or anything networking**
+- ⚡ Fun fact: I can debug a **network** *and* a **data pipeline** most people pick one
 
-🎓 Data Science major (Bachelor of Computer Science) at Swinburne University, Melbourne Australia
-☁️ Studying for my AWS Certified Cloud Practitioner → next stop, Solutions Architect Associate
-🔭 Building toward cloud data infrastructure where my background in computer networks & network administration meets data pipelines
-🧠 Learning the data engineering path: SQL → cloud data platforms → ML workflows
-💬 Ask me about Python, SQL, Vue.js, or anything networking
-🗣️ I speak English, Hindi & Gujarati
-⚡ Fun fact: I can debug a network and a data pipeline most people pick one
-
-
+---
 
 🛠️ Tech Stack
 
