@@ -20,7 +20,7 @@
 - 🧠 Learning the **data engineering** path: SQL → cloud data platforms → ML workflows
 - 💬 Ask me about **Python, SQL, Vue.js, or anything networking**
 - 🗣️ I speak **English, Hindi & Gujarati**
-- ⚡ Fun fact: I can debug a **network** *and* a **data pipeline** — most people pick one
+- ⚡ Fun fact: I can debug a **network** *and* a **data pipeline** most people pick one
 
 ---
 
@@ -50,9 +50,9 @@
 
 > These are in progress — links go live as they ship.
 
-- 🛡️ **Network Traffic Anomaly Detection** — an end-to-end ML pipeline that flags malicious/anomalous network flows (Python · scikit-learn · domain-informed feature engineering)
-- 📊 **Melbourne Data Insights** — a full-stack data product with a Vue 3 dashboard, a FastAPI backend, and a MySQL database (complete data → analysis → visualisation lifecycle)
-- 🧩 **DSA & SQL Practice** — pattern-organised solutions documenting my problem-solving progression
+- 🛡️ **Network Traffic Anomaly Detection** an end-to-end ML pipeline that flags malicious/anomalous network flows (Python · scikit-learn · domain-informed feature engineering)
+- 📊 **Melbourne Data Insights** a full-stack data product with a Vue 3 dashboard, a FastAPI backend, and a MySQL database (complete data → analysis → visualisation lifecycle)
+- 🧩 **DSA & SQL Practice** pattern-organised solutions documenting my problem-solving progression
 
 ---
 
