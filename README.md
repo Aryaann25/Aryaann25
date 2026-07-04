@@ -1,7 +1,7 @@
 <div align="center">
 <!-- ===== ANIMATED TYPING HEADER ===== -->
 <a href="https://github.com/Aryaann25">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Aryan+Thakor;Data+Science+Student+at+Swinburne;Aspiring+Data+Engineer;Where+Data+Meets+the+Network+Layer" alt="Typing header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Aryan+Thakor;Data+Science+Student+at+Swinburne;Where+Data+Meets+the+Network+Layer" alt="Typing header" />
 </a>
 <!-- ===== PROFILE VIEWS ===== -->
 <br/>
@@ -16,7 +16,7 @@
 
 - 🎓 **Data Science** major (Bachelor of Computer Science) at **Swinburne University**, Melbourne Australia
 - ☁️ Studying for my **AWS Certified Cloud Practitioner** → next stop, **Solutions Architect Associate**
-- 🔭 Building toward **cloud data infrastructure** — where my background in **computer networks & network administration** meets **data pipelines**
+- 🔭 Building toward **cloud data infrastructure** where my background in **computer networks & network administration** meets **data pipelines**
 - 🧠 Learning the **data engineering** path: SQL → cloud data platforms → ML workflows
 - 💬 Ask me about **Python, SQL, Vue.js, or anything networking**
 - ⚡ Fun fact: I can debug a **network** *and* a **data pipeline** most people pick one
@@ -70,28 +70,18 @@ Cloud & Tools
 </table>
 </div>
 
-🚀 What I'm Building
+### 🚀 What I'm Building
 
+> These are in progress — links go live as they ship.
 
-Links go live as each project ships.
+- 🛡️ **Network Traffic Anomaly Detection** — an end-to-end ML pipeline that flags malicious/anomalous network flows (Python · scikit-learn · domain-informed feature engineering)
+- 📊 **Melbourne Data Insights** — a full-stack data product with a Vue 3 dashboard, a FastAPI backend, and a MySQL database (complete data → analysis → visualisation lifecycle)
+- 🧩 **DSA & SQL Practice** — pattern-organised solutions documenting my problem-solving progression
 
-
-
-
-🛡️ Network Traffic Anomaly Detection — an end-to-end ML pipeline that flags anomalous / malicious network flows · Python · scikit-learn · feature engineering
-📊 Melbourne Data Insights — a full-stack data product: Vue 3 dashboard · FastAPI backend · MySQL database
-🧩 DSA & SQL Practice — pattern-organised solutions tracking my problem-solving progression
-
-
+---
 
 📈 GitHub Analytics
 
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryaann25&theme=tokyonight" alt="stats" />
-<br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryaann25&theme=tokyonight" alt="most used languages" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aryaann25&theme=tokyonight" alt="most commit language" />
-<br/>
 <img src="https://streak-stats.demolab.com?user=Aryaann25&theme=tokyonight&hide_border=true" alt="streak" />
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryaann25&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9a4ff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" />
@@ -125,5 +115,4 @@ Links go live as each project ships.
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Thanks+for+stopping+by!+%E2%AD%90;Let's+build+something+great+together+%F0%9F%9A%80" alt="thanks for visiting" />
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" alt="footer banner" />
-</div>
+ 
